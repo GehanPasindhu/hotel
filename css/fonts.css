@@ -1,0 +1,13 @@
+/*
+Created by Izocele Labs.
+*/
+@font-face {
+    font-family: blastimo;
+    src: url(../fonts/Blastimo.ttf);
+}
+.blastimo-font{
+    font-family: blastimo;
+}
+.yellow-font{
+    color: rgb(243,182,27);
+}
